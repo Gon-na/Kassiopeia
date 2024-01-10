@@ -52,8 +52,6 @@ Welcome to Kassiopeia's documentation!
     Visualization Techniques <visualization.rst>
     XML Bindings <bindings.rst>
     License <license.rst>
-    testLicense <Kassiopeia/LICENSE.md>
-    testLicense2 <LICENSE.md>
     License3 <license.rst>
     Authors <authors.rst>
  
