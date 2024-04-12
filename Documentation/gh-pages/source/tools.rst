@@ -15,7 +15,7 @@ the following, additional tools that are included with *Kassiopeia*, *KEMField* 
 Geometry viewers
 ================
 
-The geometry viewwers are intended to help with constructing and optimizing a simulation geometry that is typically
+The geometry viewers are intended to help with constructing and optimizing a simulation geometry that is typically
 used with *Kassiopeia* and *KEMField*. In most cases, the simulation requires a sophistocated geometry setup where
 additional tools are beneficial.
 
@@ -60,8 +60,10 @@ As shown above, it is possible to specify multiple geometry paths as well.
 Advanced visualization
 ----------------------
 
-Note that in addition to these geometry viewers, *Kassiopeia* also supports to define visualizations in the
-configuration file directly so that no additional commands are necessary. For details see :ref:`visualization-label`.
+.. note::
+
+  In addition to these geometry viewers, *Kassiopeia* also supports to define visualizations in the
+  configuration file directly so that no additional commands are necessary. For details see :ref:`kgeobag-visualization`.
 
 
 Mesh viewers
