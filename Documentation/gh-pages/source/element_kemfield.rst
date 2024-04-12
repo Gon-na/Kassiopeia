@@ -15,9 +15,10 @@ The field elements all live within the *KEMField* element and must be placed wit
         <!-- complete description of the kemfield configuration element here -->
     </kemfield>
 
-Note that in some configuration files, you may find the "legacy style" setup where the field elements are defined under
-the *Kassiopeia* element (see below). Although both variants are supported, it is recommended to follow the one
-described here.
+.. note:: 
+    In some configuration files, you may find the "legacy style" setup where the field elements are defined under
+    the *Kassiopeia* element (see below). Although both variants are supported, it is recommended to follow the one
+    described here.
 
 .. toctree::
      :maxdepth: 1
